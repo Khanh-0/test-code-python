@@ -1,0 +1,7 @@
+a=float(input('nhap so thu nhat: ',))
+b=float(input('nhap so thu hai: '))
+print("giá trị của phép tổng là ",a+b)
+print("giá trị của phép trừ là ",a-b)
+print("giá trị của phép nhân là ",a*b)
+print("giá trị của phép chia là",a/b)
+print("giá trị của modulus là ",a%b)

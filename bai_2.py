@@ -1,0 +1,11 @@
+Student_Name = str(input('Student Name: '))
+Student_ID = int(input('Student ID: '))
+Class_ID = str(input('Class ID: '))
+Date_of_birth = str(input('Date of birth: '))
+Mobile_Number = int(input('Mobile Number: '))
+print('Student Name: ' +str(Student_Name))
+print('Student ID: ' +str(Student_ID))
+print('Class ID: ' +str(Class_ID))
+print('Date of birth: ' +str(Date_of_birth))
+print('Mobile Number: ' +str(Mobile_Number))
+
